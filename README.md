@@ -1,4 +1,7 @@
-### Hi there 👋
+## 안녕하세요! 취미로 수학과 프로그래밍을 즐기는 Steve28 입니다~ :)
+
+[![Solved.ac
+프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=kenis7)](https://solved.ac/kenis7)
 
 <!--
 **pl-Steve28-lq/pl-Steve28-lq** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
