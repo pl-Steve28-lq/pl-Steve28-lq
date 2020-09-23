@@ -1,7 +1,12 @@
 ## 안녕하세요! 취미로 수학과 프로그래밍을 즐기는 Steve28 입니다~ :)
-
+<!--
 [![Solved.ac
 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=kenis7)](https://solved.ac/kenis7)
+-->
+안녕하세요, 저는 프로그래밍을 배우고 있는 중학생 예비개발자입니다!!<br>
+Python, Javascript 를 주로 사용합니다! Kotlin, Java 을 배우고 있으며 C++, C#, Lua 같은 언어들도 취미로 하고 있습니다 :)
+
+![Steve28's github stats](https://github-readme-stats.vercel.app/api?username=pl-Steve28-lq&show_icons=true)
 
 <!--
 **pl-Steve28-lq/pl-Steve28-lq** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
