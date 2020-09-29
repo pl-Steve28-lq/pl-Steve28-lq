@@ -7,6 +7,7 @@
 📚💻 Python, Javascript 를 주로 사용합니다! Kotlin, Java 을 배우고 있으며 C계열, Typescript, Lua 같은 다른 기타 언어들도 가끔 하고 있습니다 :D ([언어 모음집](https://github.com/pl-Steve28-lq/ProgrammingLanguages))
 
 ![Steve28's github stats](https://github-readme-stats.vercel.app/api?username=pl-Steve28-lq&show_icons=true)
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sungbin5304" />
 
 <!--
 **pl-Steve28-lq/pl-Steve28-lq** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
