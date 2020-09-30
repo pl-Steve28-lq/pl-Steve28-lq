@@ -3,8 +3,8 @@
 [![Solved.ac
 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=kenis7)](https://solved.ac/kenis7)
 -->
-😄🎓 안녕하세요, 저는 프로그래밍을 배우고 있는 중학생 예비 입니다!!<br>
-📚💻 Python, Javascript 를 주로 사용합니다! Kotlin, Java 을 배우고 있으며 C계열, Typescript, Lua 같은 다른 기타 언어들도 가끔 하고 있습니다 :D ([언어 모음집](https://github.com/pl-Steve28-lq/ProgrammingLanguages))
+😄🎓 안녕하세요, 저는 프로그래밍을 배우고 있는 중학생 예비 입니다!!<br><br>
+📚💻 Python, Javascript 를 주로 사용합니다! <br>Kotlin, Java 을 배우고 있으며 C계열, Typescript, Lua 같은 다른 기타 언어들도 가끔 하고 있습니다 :D ([언어 모음집](https://github.com/pl-Steve28-lq/ProgrammingLanguages))<br><br>
 
 ![Steve28's github stats](https://github-readme-stats.vercel.app/api?username=pl-Steve28-lq&show_icons=true)
 <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pl-Steve28-lq" />
