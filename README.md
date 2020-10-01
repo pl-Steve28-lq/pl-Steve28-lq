@@ -5,17 +5,17 @@
 -->
 😄🎓 안녕하세요, 저는 프로그래밍을 배우고 있는 중학생 예비 프로그래머 입니다!!<br><br>
 📚💻 Programming Languages!<br>
-> **Capable of...** <br>
-> > Python **(Main)**<br>
-> > Javascript <br>
+**Capable of...** <br>
+> Python **(Main)**<br>
+> Javascript <br>
 
-> **Studying...** <br>
-> > Kotlin, Java <br>
+**Studying...** <br>
+> Kotlin, Java <br>
 
-> **Maybe Someday** <br>
-> > C, C++, C# <br>
-> > Lua (Love2d) <br>
-> > etc... <br>
+**Maybe Someday** <br>
+> C, C++, C# <br>
+> Lua (Love2d) <br>
+> etc... <br>
 
 
 
