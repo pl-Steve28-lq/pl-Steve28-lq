@@ -4,8 +4,24 @@
 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=kenis7)](https://solved.ac/kenis7)
 -->
 😄🎓 안녕하세요, 저는 프로그래밍을 배우고 있는 중학생 예비 프로그래머 입니다!!<br><br>
-📚💻 **\[Programming Languages!\]** Python, Javascript에 능통하고, Kotlin (and Java) 를 배우고 있습니다. <br>
-또한 시간이 된다면 C계열, Lua (Love2d), Typescript 등 다른 언어도 도전하려고 합니다 :D<br>
+📚💻 **\[Programming Languages\]** <br>
+> _**Skilled!**_ <br>
+> <img src="https://raw.githubusercontent.com/leopiccionia/programmicons/master/src/python.svg" width=50/>
+> <img src="https://raw.githubusercontent.com/leopiccionia/programmicons/master/src/javascript.svg" width=50/>
+
+> _**Learning..!**_ <br>
+> <img src="https://raw.githubusercontent.com/leopiccionia/programmicons/master/src/kotlin.svg" width=50/>
+> <img src="https://raw.githubusercontent.com/leopiccionia/programmicons/master/src/java.svg" width=50/>
+> <img src="https://raw.githubusercontent.com/leopiccionia/programmicons/master/src/typescript.svg" width=50/>
+
+> **Some day...** <br>
+> <img src="https://raw.githubusercontent.com/leopiccionia/programmicons/master/src/c.svg" width=50/>
+> <img src="https://raw.githubusercontent.com/leopiccionia/programmicons/master/src/cpp.svg" width=50/>
+> <img src="https://raw.githubusercontent.com/leopiccionia/programmicons/master/src/csharp.svg" width=50/>
+> <img src="https://raw.githubusercontent.com/leopiccionia/programmicons/master/src/lua.svg" width=50/>
+
+
+
 **\[[언어 모음집](https://github.com/pl-Steve28-lq/ProgrammingLanguages)\]<br><br>**
 
 ![Steve28's github stats](https://github-readme-stats.vercel.app/api?username=pl-Steve28-lq&show_icons=true)
