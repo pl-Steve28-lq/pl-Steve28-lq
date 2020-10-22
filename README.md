@@ -6,19 +6,12 @@
 😄🎓 안녕하세요, 저는 프로그래밍을 배우고 있는 중학생 예비 프로그래머 입니다!!<br><br>
 📚💻 **\[Programming Languages\]** <br>
 > _**Skilled!**_ <br>
-> <img src="https://raw.githubusercontent.com/leopiccionia/programmicons/master/src/python.svg" width=50/>
-> <img src="https://raw.githubusercontent.com/leopiccionia/programmicons/master/src/javascript.svg" width=50/>
+> ![Python](https://img.shields.io/badge/-Python-007ea7?style=for-the-badge&logo=python&logoColor=fff)
+> ![Javascript](https://img.shields.io/badge/-Javascript-cfd34a?style=for-the-badge&logo=javascript&logoColor=000)
 
 > _**Learning..!**_ <br>
-> <img src="https://raw.githubusercontent.com/leopiccionia/programmicons/master/src/kotlin.svg" width=50/>
-> <img src="https://raw.githubusercontent.com/leopiccionia/programmicons/master/src/java.svg" width=50/>
-> <img src="https://raw.githubusercontent.com/leopiccionia/programmicons/master/src/typescript.svg" width=50/>
-
-> **Some day...** <br>
-> <img src="https://raw.githubusercontent.com/leopiccionia/programmicons/master/src/c.svg" width=50/>
-> <img src="https://raw.githubusercontent.com/leopiccionia/programmicons/master/src/cpp.svg" width=50/>
-> <img src="https://raw.githubusercontent.com/leopiccionia/programmicons/master/src/csharp.svg" width=50/>
-> <img src="https://raw.githubusercontent.com/leopiccionia/programmicons/master/src/lua.svg" width=50/>
+> ![Kotlin](https://img.shields.io/badge/-Kotlin-fcb401?style=for-the-badge&logo=kotlin&logoColor=000)
+> ![Java](https://img.shields.io/badge/-Java-5382a1?style=for-the-badge&logo=java&logoColor=fff)
 
 
 
