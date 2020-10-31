@@ -1,4 +1,4 @@
-## 안녕하세요! 취미로 수학과 프로그래밍을 즐기는 Steve28 입니다~
+## Hello, Everyone!
 <!--
 [![Solved.ac
 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=kenis7)](https://solved.ac/kenis7)
