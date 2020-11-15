@@ -6,7 +6,7 @@
 😄🎓 안녕하세요, 저는 프로그래밍을 배우고 있는 중학생 예비 프로그래머 입니다!!<br><br>
 📚💻 **\[[Programming Languages](https://github.com/pl-Steve28-lq/ProgrammingLanguages)\]** 💻📚 <br> 
 > _**Skilled!**_ <br>
-> ![Python](https://img.shields.io/badge/-Python-007ea7?style=for-the-badge&logo=python&logoColor=fff)
+> ![Python](https://img.shields.io/badge/-Python-4b8bbe?style=for-the-badge&logo=python&logoColor=fff)
 > ![Javascript](https://img.shields.io/badge/-Javascript-f0db4f?style=for-the-badge&logo=javascript&logoColor=000)
 
 > _**Learning..!**_ <br>
