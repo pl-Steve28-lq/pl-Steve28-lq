@@ -7,7 +7,7 @@
 📚💻 **\[[Programming Languages](https://github.com/pl-Steve28-lq/ProgrammingLanguages)\]** 💻📚 <br> 
 > _**Skilled!**_ <br>
 > ![Python](https://img.shields.io/badge/-Python-007ea7?style=for-the-badge&logo=python&logoColor=fff)
-> ![Javascript](https://img.shields.io/badge/-Javascript-cfd34a?style=for-the-badge&logo=javascript&logoColor=000)
+> ![Javascript](https://img.shields.io/badge/-Javascript-f0db4f?style=for-the-badge&logo=javascript&logoColor=000)
 
 > _**Learning..!**_ <br>
 > ![Kotlin](https://img.shields.io/badge/-Kotlin-fcb401?style=for-the-badge&logo=kotlin&logoColor=000)
