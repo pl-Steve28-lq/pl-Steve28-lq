@@ -6,12 +6,12 @@
 😄🎓 안녕하세요, 저는 프로그래밍을 배우고 있는 중학생 예비 프로그래머 입니다!!<br><br>
 📚💻 **\[[Programming Languages](https://github.com/pl-Steve28-lq/ProgrammingLanguages)\]** 💻📚 <br> 
 > _**Skilled!**_ <br>
-> ![Python](https://img.shields.io/badge/-Python-4b8bbe?style=for-the-badge&logo=python&logoColor=fff)
-> ![Javascript](https://img.shields.io/badge/-Javascript-f0db4f?style=for-the-badge&logo=javascript&logoColor=000)
+> <img src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/python.svg" width=90 height=90>
+>  <img src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/javascript.svg" width=90 height=90>
 
 > _**Learning..!**_ <br>
-> ![Kotlin](https://img.shields.io/badge/-Kotlin-fcb401?style=for-the-badge&logo=kotlin&logoColor=000)
-> ![Java](https://img.shields.io/badge/-Java-5382a1?style=for-the-badge&logo=java&logoColor=fff)
+> <img src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/kotlin.svg" width=90 height=90>
+> <img src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/flutter.svg" width=90 height=90>
 
 📚💻 **\[[언어 모음집](https://github.com/pl-Steve28-lq/ProgrammingLanguages)\] 💻📚 <br><br>**
 
