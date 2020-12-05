@@ -16,7 +16,7 @@
 📚💻 **\[[언어 모음집](https://github.com/pl-Steve28-lq/ProgrammingLanguages)\] 💻📚 <br><br>**
 
 ![Steve28's github stats](https://github-readme-stats.vercel.app/api?username=pl-Steve28-lq&show_icons=true)
-![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=pl-Steve28-lq&show_icons=true&title_color=004c97&icon_color=004c97&text_color=434343&bg_color=00000000&cache_seconds=1800&layout=compact)
+![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=pl-Steve28-lq&show_icons=true&title_color=004c97&icon_color=004c97&text_color=434343&bg_color=00000000&cache_seconds=1800&layout=compact&langs_count=8)
 
 
 <!--
