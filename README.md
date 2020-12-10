@@ -7,11 +7,11 @@
 📚💻 **\[[Programming Languages](https://github.com/pl-Steve28-lq/ProgrammingLanguages)\]** 💻📚 <br> 
 > _**Skilled!**_ <br>
 > <img src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/python.svg" width=90 height=90>
->  <img src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/javascript.svg" width=90 height=90>
+> <img src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/javascript.svg" width=90 height=90>
 
 > _**Learning..!**_ <br>
 > <img src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/kotlin.svg" width=90 height=90>
-> <img src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/flutter.svg" width=90 height=90>
+<!-- > <img src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/flutter.svg" width=90 height=90> -->
 
 📚💻 **\[[언어 모음집](https://github.com/pl-Steve28-lq/ProgrammingLanguages)\] 💻📚 <br><br>**
 
