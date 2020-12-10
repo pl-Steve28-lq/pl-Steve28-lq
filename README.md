@@ -3,7 +3,9 @@
 [![Solved.ac
 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=kenis7)](https://solved.ac/kenis7)
 -->
-😄🎓 안녕하세요, 저는 프로그래밍을 배우고 있는 중학생 예비 프로그래머 입니다!!<br><br>
+😄🎓 안녕하세요, 저는 프로그래밍을 배우고 있는 중학생 예비 프로그래머 입니다!!<br>
+정말 쓸모 없는걸 만드는게 취미입니다. :)<br>
+
 📚💻 **\[[Programming Languages](https://github.com/pl-Steve28-lq/ProgrammingLanguages)\]** 💻📚 <br> 
 > _**Skilled!**_ <br>
 > <img src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/python.svg" width=90 height=90>
