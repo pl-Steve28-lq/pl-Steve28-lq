@@ -5,7 +5,7 @@
 
 📚💻 **\[[Programming Languages](https://github.com/pl-Steve28-lq/ProgrammingLanguages)\]** 💻📚 <br> 
 
-> _**Skilled!**_
+> _**Skilled!**_ <br>
 > <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width=90 height=90>
 > <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width=90 height=90>
 > <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kotlin/kotlin-original.svg" width=90 height=90>
