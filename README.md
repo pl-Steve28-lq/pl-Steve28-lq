@@ -7,8 +7,8 @@
 
 > _**Skilled!**_ <br>
 > <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" width=90 height=90>
-> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width=90 height=90>
 > <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kotlin/kotlin-original.svg" width=90 height=90>
+> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width=90 height=90>
 
 > _**Learning..!**_ <br>
 > <img src="https://www.rust-lang.org/logos/rust-logo-128x128.png" width=90 height=90>
