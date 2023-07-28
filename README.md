@@ -1,7 +1,5 @@
 ## Hello, Everyone!
 
-😄🎓 안녕하세요, 저는 프로그래밍을 배우고 있는 중학생 예비 프로그래머 입니다!!<br>
-정말 쓸모 없는걸 만드는게 취미에요 :)<br>
 Hi, I'm Developer-wannabe student and I usually make useless stuffs :)<br>
 
 📚💻 **\[[Programming Languages](https://github.com/pl-Steve28-lq/ProgrammingLanguages)\]** 💻📚 <br> 
